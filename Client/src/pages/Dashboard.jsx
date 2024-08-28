@@ -7,8 +7,8 @@ const Dashboard = () => {
         <div className='font-poppins'>
             <Header />
             <div className='flex justify-center'>
-            <div className="dashboard-container h-auto">
-                <h1 className='text-3xl font-medium mb-5 pt-12'>Welcome to the Dashboard!</h1>
+            <div className=" h-auto w-auto px-10">
+                <h1 className='text-3xl font-medium mb-5 pt-12'>Revenue Report</h1>
                 <p className='text-xl'>Here, you'll find a comprehensive overview of your business metrics. Stay informed with key performance indicators and financial insights.</p>
                
                
